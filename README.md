@@ -10,12 +10,26 @@
 ## Click [YouTube 졸업작품 시연 영상](https://www.youtube.com/watch?v=RVzAPrMWpZ0)
 
 
-![슬라이드1](https://user-images.githubusercontent.com/80079407/110242506-ce222480-7f99-11eb-9090-eb9434f40fa0.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/80079407/110242509-cfebe800-7f99-11eb-8b8b-fff8abc4d1af.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/80079407/110242512-d11d1500-7f99-11eb-9cad-e2276332d4ca.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/80079407/110242515-d24e4200-7f99-11eb-8562-451bfb0d503a.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/80079407/110242519-d37f6f00-7f99-11eb-8afc-a30a6c6fadf1.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/80079407/110242521-d4b09c00-7f99-11eb-97c6-5cfb12699770.JPG)
+
+![슬라이드1](https://user-images.githubusercontent.com/80079407/110243450-bf3d7100-7f9d-11eb-9b6f-f95ae55499e1.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/80079407/110243451-c06e9e00-7f9d-11eb-9498-aab99f3afa90.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/80079407/110243452-c19fcb00-7f9d-11eb-9761-137c412235ec.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/80079407/110243453-c2d0f800-7f9d-11eb-859d-4a3a3c00516f.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/80079407/110243454-c4022500-7f9d-11eb-8be8-d504fa052f5c.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/80079407/110243455-c49abb80-7f9d-11eb-9b53-21fa788693d7.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
